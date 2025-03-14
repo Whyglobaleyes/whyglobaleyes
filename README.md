@@ -20,3 +20,5 @@
 
 
 [templ notes](_posts/wiki_template_notes.md)
+
+[templ notes](./_posts/wiki_template_notes)
