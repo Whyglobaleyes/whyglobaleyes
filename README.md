@@ -5,3 +5,4 @@
 
 ---
 [template: git-wiki](./_pages/syntax_template)
+[template: git-wiki](./syntax_template)
