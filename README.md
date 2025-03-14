@@ -1,6 +1,6 @@
 # Archive
 
-<h3> this is a header with HTML </h3>
+<h3><centre> this is a header with HTML </centre></h3>
 
 
 ---
