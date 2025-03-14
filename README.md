@@ -16,4 +16,4 @@
 
 ---
 
-[](wiki_template_notes.md)
+[templ notes](wiki_template_notes.md)
