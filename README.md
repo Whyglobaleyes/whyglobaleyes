@@ -16,9 +16,9 @@
 
 ---
 
-[templ notes](wiki_template_notes.md)
+[1 templ notes](wiki_template_notes.md)
 
 
-[templ notes](_posts/wiki_template_notes.md)
+[2 templ notes](_posts/wiki_template_notes.md)
 
-[templ notes](./_posts/wiki_template_notes)
+[3 templ notes](./_posts/wiki_template_notes.md)
