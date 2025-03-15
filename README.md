@@ -1,4 +1,4 @@
-<h1 style="color:#0000ff"> rgbArchive Contents yellow </h1>
+<h1 style="color:#0000ff; text-align: center"> rgbC Archive Contents yellow </h1>
 
 <h3><center> this is a header with HTML </center></h3>
 
