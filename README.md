@@ -22,7 +22,7 @@ Clinical Search: <script async src="https://cse.google.com/cse.js?cx=00656878345
 
 LInux Search: <script async src="https://cse.google.com/cse.js?cx=006568783453355178348:qcsza7mxika">
 </script>
-<div class="gcse-searchbox"></div>
+<div class="gcse-searchbox-only"></div>
 
 --- 
 
