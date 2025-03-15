@@ -1,5 +1,5 @@
 <h1 style="color:#33dbff; text-align: center; border:thick solid"> BOX 
-  Cyan </h1>
+  Cyan col </h1>
 
 <h1 style="color:#ff5733; text-align: center; border:thick solid #0000FF "> BOX 
   dusky red </h1>
