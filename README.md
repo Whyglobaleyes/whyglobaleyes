@@ -16,11 +16,14 @@
 
 ---
 
-<script async src="https://cse.google.com/cse.js?cx=006568783453355178348:jxd4om7ijyg">
+Clinical Search: <script async src="https://cse.google.com/cse.js?cx=006568783453355178348:jxd4om7ijyg">
 </script>
 <div class="gcse-searchbox-only"></div>
+LInux Search: <script async src="https://cse.google.com/cse.js?cx=006568783453355178348:qcsza7mxika">
+</script>
+<div class="gcse-searchbox"></div>
 
-
+--- 
 
 [1 templ notes](wiki_template_notes.md)
 
