@@ -30,19 +30,6 @@ LInux Search: <script async src="https://cse.google.com/cse.js?cx=00656878345335
 <div class="gcse-searchbox-only"></div>
 
 --- 
-
-[1 templ notes](wiki_template_notes.md)
-
-[2 templ notes](_posts/wiki_template_notes.md)
-
-[3 templ notes](./_posts/wiki_template_notes.md)
-
-
-```
-[1 templ notes](wiki_template_notes.md)
-[2 templ notes](_posts/wiki_template_notes.md)
-[3 templ notes](./_posts/wiki_template_notes.md)
-```
 2025.03.15_tyester
 
 [_posts/2025.03.15_tyester](_posts/2025.03.15_tyester)
