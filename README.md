@@ -1,4 +1,4 @@
-# Archive
+# <h1 style="color:blue;"> Archive </h1>
 
 <h3><center> this is a header with HTML </center></h3>
 
