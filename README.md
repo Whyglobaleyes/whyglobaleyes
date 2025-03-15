@@ -30,5 +30,10 @@
 ```
 2025.03.15_tyester
 
+[_posts/2025.03.15_tyester](_posts/2025.03.15_tyester)
+
+[_posts/2025.03.15_tyester.md](_posts/2025.03.15_tyester.md)
+
+
 [[2025.03.15_tyester]]
 
