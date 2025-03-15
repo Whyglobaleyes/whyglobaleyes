@@ -1,5 +1,9 @@
-<h1 style="color:#0000ff; text-align: center; border:thick solid #0000FF "> BOX 
-  rgbC Archive Contents yellow </h1>
+<h1 style="color:#33dbff; text-align: center; border:thick solid #0000FF "> BOX 
+  Cyan </h1>
+
+<h1 style="color:#ff5733; text-align: center; border:thick solid #0000FF "> BOX 
+  dusky red </h1>
+
 
 <h3><center> this is a header with HTML </center></h3>
 
