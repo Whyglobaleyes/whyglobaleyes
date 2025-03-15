@@ -1,4 +1,4 @@
-# <h1 style="color:blue;"> Archive </h1>
+<h1 style="color:blue;"> Archive </h1>
 
 <h3><center> this is a header with HTML </center></h3>
 
@@ -19,6 +19,7 @@
 Clinical Search: <script async src="https://cse.google.com/cse.js?cx=006568783453355178348:jxd4om7ijyg">
 </script>
 <div class="gcse-searchbox-only"></div>
+
 LInux Search: <script async src="https://cse.google.com/cse.js?cx=006568783453355178348:qcsza7mxika">
 </script>
 <div class="gcse-searchbox"></div>
