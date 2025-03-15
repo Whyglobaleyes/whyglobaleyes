@@ -7,17 +7,12 @@
 
 <h3><center> this is a header with HTML </center></h3>
 
+[link to todays wiki file](_posts/ )
+
+[link to todays posts file](wiki/2025.03.15_tyester.md)
+
 
 ---
-[template: git-wiki](./_pages/syntax_template)
-
-[template: git-wiki](./syntax_template)
-
-
-[template: git-wiki](syntax_template)
-
-
-[template: git-wiki](./syntax_template)
 
 ---
 
