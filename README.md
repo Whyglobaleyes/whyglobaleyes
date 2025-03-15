@@ -16,6 +16,12 @@
 
 ---
 
+<script async src="https://cse.google.com/cse.js?cx=006568783453355178348:jxd4om7ijyg">
+</script>
+<div class="gcse-searchbox-only"></div>
+
+
+
 [1 templ notes](wiki_template_notes.md)
 
 [2 templ notes](_posts/wiki_template_notes.md)
