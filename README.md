@@ -1,4 +1,4 @@
-<h1 style="color:#33dbff; text-align: center; border:thick solid #0000FF "> BOX 
+<h1 style="color:#33dbff; text-align: center; border:thick solid"> BOX 
   Cyan </h1>
 
 <h1 style="color:#ff5733; text-align: center; border:thick solid #0000FF "> BOX 
