@@ -1,4 +1,4 @@
-<h1 style="color:yellow;"> Archive Contents yellow </h1>
+<h1 style="color:#ffff00"> Archive Contents yellow </h1>
 
 <h3><center> this is a header with HTML </center></h3>
 
